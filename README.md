@@ -26,7 +26,7 @@ You’ll need to:
 •	Add a **New device**, choose **Tuya Cloud**, choose the category of devices, and your device should appear.
 
 
-AI made it so easy anyone could make it work. Some devices like Fingerbot shows as offline in the web app, so I am unable to operate it. Next I’ll try to make my camera capture an image and display it.
+AI made it so easy anyone could make this work. Some devices like Fingerbot shows as offline in the web app, so I am unable to operate it. Next I’ll try to make my camera capture an image and display it.
 
 
 I’ve just started looking into this, but ideally new device ids and settings should be collected in a public list. Maybe someone knows the Tuya Cloud code well enough to modify it so we can just drop in a yaml file for each device?
