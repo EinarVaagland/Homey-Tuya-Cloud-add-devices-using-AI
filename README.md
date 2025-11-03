@@ -1,4 +1,4 @@
-### While waiting for the official Tuya support to start working again, I decided to try Tuya Cloud and see if I could make AI integrate more devices, and it worked!
+### While waiting for the official Tuya app to start working again in Homey, I decided to try Tuya Cloud and see if I could make AI integrate more devices, and it worked!
 
 I’ve added almost every Tuya device Homey ignores, like temperature sensors, soil sensors, a universal remote and the movement detector from a camera, in just a few minutes!
 
